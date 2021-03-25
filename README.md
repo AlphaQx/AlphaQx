@@ -6,6 +6,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to Linux/C/ShellScript/CSS/Python/Flask or Cyber Security
 - 📫 How to reach me: [@ShivamQx](https://twitter.com/ShivamQx)
 
+##Github Stats
+<img alt="Shivam Mishra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlphaQx&show_icons=true&count_private=true" />
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
