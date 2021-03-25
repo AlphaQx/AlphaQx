@@ -14,8 +14,8 @@ This is the place where I opensource stuff and break things :rofl:
 <!--START_SECTION:waka-->
 ```text
 Cyber Security   8 hrs 31 mins   █████████████▒░░░░░░░░░░░   53.07 % 
-Cryptography   3 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Python       1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-HTML         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-CSS          36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Cryptography     3 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Python           1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+HTML             40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+CSS              36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
