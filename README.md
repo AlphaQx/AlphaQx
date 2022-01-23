@@ -1,7 +1,7 @@
 ### Hi there <a href="https://github.com.com/AlphaQx"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
 
-![trophy](https://github-profile-trophy.vercel.app/?username=alphaqx)
+![trophy](https://github-profile-trophy.vercel.app/?username=alphaqx&theme=matrix)
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Cryptography,Mainframe and AWS Cloud/Servers
